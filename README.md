@@ -28,7 +28,5 @@ This will launch the app in your terminal
     3. Repeatable deployment method is required. i.e Docker image
     4. CI/CD pipeline, ideally with image produced at the end of pipeline execution
 
-3. Very enjoyable coding challenge. It was challenging enough without unnecessary complexities. 
-
-An improvement I would suggest is an extension activity of creating a docker-compose.yml to test knowledge of docker.
+3. Very enjoyable coding challenge. It was challenging enough without unnecessary complexities. An improvement I would suggest is an extension activity of creating a docker-compose.yml to test knowledge of docker.
     
