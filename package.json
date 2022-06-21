@@ -1,0 +1,22 @@
+{
+    "name": "ftr-fibonacci-coding-challenge",
+    "version": "1.0.0",
+    "description": "Coding challenge for FTR Developer",
+    "main": "src/index.js",
+    "scripts": {
+        "start": "tsc --downlevelIteration src/index && ./node_modules/ts-node/dist/bin.js ./src/index.ts"
+    },
+    "author": "Stephan Abraham",
+    "license": "MIT",
+    "homepage": "https://https://github.com/stevoAbr/ftr-coding-challenge#readme",
+    "dependencies": {
+        "@types/resize-observer-browser": "^0.1.7",
+        "advanced-timer": "^2.0.1",
+        "core-js": "^3.1.4",
+        "fibonacci-fast": "^0.2.0",
+        "readline-promise": "^1.0.4",
+        "ts-node": "^8.3.0",
+        "typescript": "^3.5.3",
+        "@types/node": "^12.6.9"
+    }
+}
